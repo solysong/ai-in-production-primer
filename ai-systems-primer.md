@@ -89,3 +89,9 @@ Note: how variable are these inputs?
     - infra
     - on-call
 
+   
+## Why AI Systems Fail in Production
+
+Most AI failures are not caused by model performance, but by upstream data issues, integration gaps, and missing observability.
+
+
